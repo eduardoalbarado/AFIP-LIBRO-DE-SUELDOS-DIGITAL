@@ -1,0 +1,33 @@
+110000100       SUELDO                                                                                                                                                11111111111 1 1 11 1         
+130001126       HORAS EXTRA 50%                                                                                                                                       11111111111 1 1 11 1         
+130002127       HORAS EXTRA 100%                                                                                                                                      11111111111 1 1 11 1         
+150000150       VACACIONES                                                                                                                                            11111111111 1 1 11 1         
+160001116       ANTIGÜEDAD                                                                                                                                            11111111111 1 1 11 1         
+161000120       ADIC RESOLUCION                                                                                                                                       11111111111 1 1 11 1         
+161001122       ADIC TAREA DE REC                                                                                                                                     11111111111 1 1 11 1         
+161002123       PREMIO RECAUDACION                                                                                                                                    11111111111 1 1 11 1         
+161003128       ADICIONAL NOCTURNO                                                                                                                                    11111111111 1 1 11 1         
+161004194       JEFATURA                                                                                                                                              11111111111 1 1 11 1         
+170000170       GRATIFICACION                                                                                                                                         11111111111 1 1 11 1         
+170001109       ASISTENCIA                                                                                                                                            11111111111 1 1 11 1         
+170005130       VIATICO                                                                                                                                               11111111111 1 1 11 1         
+520012151       VACACIONES NO GOZ                                                                                                                                     10000000000 0 0 00 0         
+551000198       CTA NO REMUNERATIVA                                                                                                                                   10000000000 0 0 00 0         
+799999980       REDONDEO EN MAS                                                                                                                                       10000000000 0 0 00 0         
+810000300       JUBILACION 11%                                                                                                                                        10000000000 0 0 00 0         
+810002302       OBRA SOCIAL                                                                                                                                           10000000000 0 0 00 0         
+810004304       CUOTA SINDICAL 1.5%                                                                                                                                   10000000000 0 0 00 0         
+810007360       ANTICIPO DE SUELDO                                                                                                                                    10000000000 0 0 00 0         
+810008390       RET IMP A LAS GCIAS                                                                                                                                   10000000000 0 0 00 0         
+821000102       DIAS DE ENFERMEDAD                                                                                                                                    10000000000 0 0 00 0         
+821001103       AUSENCIA C/PERMISO                                                                                                                                    10000000000 0 0 00 0         
+821002111       LICENC POR MATERN                                                                                                                                     10000000000 0 0 00 0         
+821003140       DESC MEDIA JORNADA                                                                                                                                    10000000000 0 0 00 0         
+821004303       CUOTA ADIC OSPE                                                                                                                                       10000000000 0 0 00 0         
+821005305       PROMOC. SOCIAL 1%                                                                                                                                     10000000000 0 0 00 0         
+821006306       AP. SOLIDARIO 1%                                                                                                                                      10000000000 0 0 00 0         
+821007309       CUOTA SWISSMEDICAL                                                                                                                                    10000000000 0 0 00 0         
+821008320       EMBARGO LITIS                                                                                                                                         10000000000 0 0 00 0         
+821009321       EMBARGO                                                                                                                                               10000000000 0 0 00 0         
+821010325       FARMACIA UTA                                                                                                                                          10000000000 0 0 00 0         
+821011361       RET. PERD. CELULAR                                                                                                                                    10000000000 0 0 00 0         
